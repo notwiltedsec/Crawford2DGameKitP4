@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 5c2a76f308bbaa94497de05d3535a47e
+  productGUID: 194d7e733b2c8b8479ba6f9ba8fad853
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -1023,7 +1023,7 @@ PlayerSettings:
   cloudProjectId: e7dcea0a-2690-409e-b763-3218eb6b0386
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Crawford2DGameKitP4
+  projectName: Platformer-2D
   organizationId: unity_762049
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
